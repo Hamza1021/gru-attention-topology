@@ -12,7 +12,7 @@ neuro_gru_cued_change_detection/
 ├── requirements.txt
 ├── environment.yml
 ├── .gitignore
-└── gru_cued_change_detection_topology.ipynb
+└── Notebook_corrected.ipynb
 ```
 
 The notebook contains the complete workflow: task simulation, supervised GRU training, response-threshold calibration, behavioral evaluation, cue decoding, persistent-homology analyses, null controls, aggregation across seeds, figure generation, reporting, and export of a ZIP archive.
