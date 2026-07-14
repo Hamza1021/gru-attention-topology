@@ -1,5 +1,0 @@
-condition,unit_group,attention_condition,longest_persistence_mean,longest_persistence_sem,longest_persistence_n,peak_betti_mean,peak_betti_sem,peak_betti_n,total_persistence_mean,total_persistence_sem,total_persistence_n
-left_pref_attend_away,left_pref,attend_away,0.41495051980018616,0.07066631964569653,5,3.0,0.7071067811865476,5,0.7971228938549757,0.21866651146674868,5
-left_pref_attend_preferred,left_pref,attend_preferred,0.39799224138259887,0.06355723971471496,5,2.8,0.58309518948453,5,0.7882416047155857,0.21504612743222204,5
-right_pref_attend_away,right_pref,attend_away,0.5571819320321083,0.11716917282847929,4,3.0,0.408248290463863,4,0.8328220210969448,0.050752645297493744,4
-right_pref_attend_preferred,right_pref,attend_preferred,0.6041222512722015,0.08939888447350398,4,2.25,0.47871355387816905,4,0.8689568834379315,0.05257715639873286,4
