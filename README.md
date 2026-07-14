@@ -7,7 +7,7 @@
 ## 2. Repository structure
 
 ```text
-neuro_gru_cued_change_detection/
+
 ├── README.md
 ├── requirements.txt
 ├── environment.yml
