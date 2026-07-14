@@ -1,5 +1,0 @@
-metric,column,mean,sem,n_seeds
-Held-out trial accuracy,cue_decoder_trial_accuracy,1.0,0.0,5
-Trial-label shuffle,cue_decoder_shuffled_trial_accuracy,0.5042222222222221,0.0023205669273256378,5
-Held-out timestep accuracy,cue_decoder_timestep_accuracy,0.999787594648714,0.0001650903890116639,5
-Timestep trial-label shuffle,cue_decoder_shuffled_timestep_accuracy,0.5036823557454221,0.002270932335262979,5
